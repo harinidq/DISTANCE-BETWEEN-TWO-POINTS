@@ -13,7 +13,7 @@ To write a python program to find the distance two 2 points
 
 #Program to find the distance between two points.
 #Developed by:M.D.Harini
-#RegisterNumber:220031980
+#RegisterNumber:22001980
 import math
 l1=[4,2]
 l2=[10,6]
